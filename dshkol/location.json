@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.98123,43.31833] 
+    },
+    "properties": {
+        "user": "Dshkol",
+        "name": "San Sebastian",
+        "color": "#f2c319"
+    }
+}
